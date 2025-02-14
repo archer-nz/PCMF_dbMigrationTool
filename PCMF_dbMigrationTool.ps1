@@ -18,7 +18,14 @@
 
     .LINK
     https://papercut.com/support/known-issues/?id=PO-2009#mf
+
+    .LINK
+    https://github.com/archer-nz/PCMF_dbMigrationTool
 #>
+
+#Requires -Version 5.1
+#Requires -PSEdition Desktop
+#Requires -RunAsAdministrator
 
 Write-Host "
 #########################################
